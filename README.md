@@ -1,2 +1,10 @@
-# portfolio
-homework 7
+# Information
+
+
+# What was done
+
+
+# Screenshots
+
+
+# Links

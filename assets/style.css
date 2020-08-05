@@ -1,0 +1,16 @@
+body {
+    background-image: url("./images/cityscapes-city.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    margin-left: 425px;
+    margin-top: 50px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+}
